@@ -9,7 +9,7 @@ QA engineer
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [nevetutu12@gmail.com](mailto:nevetutu12@gmail.com)
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Superwoman is here! ;-)
+
 
 <a href="https://www.github.com/NevenaTutu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NevenaTutu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
